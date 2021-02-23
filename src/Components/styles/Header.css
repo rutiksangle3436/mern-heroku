@@ -1,0 +1,18 @@
+.nav{
+     background-color: whitesmoke;
+}
+button{
+     margin-left: auto;
+}
+.signupButton{
+     margin-left: 10px;
+}
+.border-0{
+     width : 500px;
+}
+
+.headersearch{
+     border: 2px solid gray;
+     border-radius: 10px;
+
+}

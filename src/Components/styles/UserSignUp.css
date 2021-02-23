@@ -1,0 +1,13 @@
+.sign{
+    color: black;
+    box-shadow: 5px 5px 15px 1px black;
+    margin: auto;
+    margin-top: 10%;
+}
+
+a:hover,
+a:visited, 
+a:link{
+    color:black;
+}
+

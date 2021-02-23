@@ -1,0 +1,112 @@
+#components-layout-demo-top-side-2 .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.ant-row-rtl #components-layout-demo-top-side-2 .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+}
+
+.site-layout-background {
+    background: #fff;
+}
+
+.buttonexitc {
+    position: absolute;
+    margin: auto;
+    margin-top: 0.8cm;
+    margin-left: 85%;
+    width: 3cm;
+}
+.buttonbackc {
+    position: absolute;
+    margin-top: 0.8cm;
+    margin-left: 2cm;
+    width: 3cm;
+}
+
+.stepbar{
+    margin-top: 2cm;
+}
+
+.createheading{
+    position: absolute;
+    margin: auto;
+    margin-left: 45%;
+}
+
+.createcard{
+    margin: auto;
+    margin-top: 1cm;
+    min-height: 14.8cm;
+}
+
+.thumbnailUpload{
+    margin-top: 1cm;
+}
+
+.previewUpload{
+    margin-top: 1cm;
+}
+
+.sectionIp{
+    width: 10cm;
+    margin-top: 5px;
+    margin-bottom: 1cm;
+}
+
+.videoIp{
+    width: 10cm;
+}
+
+
+
+.sectionForm{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.CrCoCard{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: black solid 1px;
+
+}
+
+.CrCoSaveLectureBut{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.CrCoAddLectureBut{
+    margin-right: 10px;
+    margin-top: 1cm;
+}
+.CrCoShowStateBut{
+    margin-top: 1cm ;
+}
+
+.CrCoSaveSecBut{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.CrCoAddSectionBtn{
+    margin-top: 1cm;
+}
+
+.ThumbnailIpButton{
+    position: absolute;
+    margin-left: -3cm;
+    margin-top: 1cm;
+}
+
+.ThumbnailSubmitButton{
+    position: absolute;
+    margin-top: 1cm;
+    margin-left: 5cm;
+}
